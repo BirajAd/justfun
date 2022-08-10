@@ -1,0 +1,21 @@
+[{
+    "image_path": "",
+    "x": "",
+    "y": "",
+    "label": "cat",
+    "labeled_by": "Sandesh"
+},
+{
+    "image_path": "",
+    "x": "",
+    "y": "",
+    "label": "dog",
+    "labeled_by": "Sandesh"
+},
+{
+    "image_path": "",
+    "x": "",
+    "y": "",
+    "label": "cow",
+    "labeled_by": "Sandesh"
+}]
